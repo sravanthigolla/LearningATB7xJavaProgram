@@ -1,6 +1,6 @@
 package ex_071224_datatypes;
 
-public class Lab6 {
+public class Lab6_Operators {
 
     public static void main(String[] args) {
 
