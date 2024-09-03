@@ -1,4 +1,4 @@
-package ex_081824.Collections;
+package ex_081824.Collections.ArrayList;
 
 import java.util.*;
 
@@ -76,6 +76,8 @@ public class ArrayList1 {
         Collections.sort(marks);
         System.out.println(marks);
         Collections.sort(marks, Comparator.reverseOrder());
+        System.out.println(marks);
+        Collections.sort(marks, Collections.reverseOrder());
         System.out.println(marks);
 
 
